@@ -6,7 +6,7 @@ O **Meupet** é um projeto de plataforma de petshop desenvolvido para proporcion
 
 ## 🌐 Demonstração
 
-🔗 **Acesse o projeto online:** 
+🔗 **Acesse o projeto online:** https://shwnzzzz.github.io/Meupet-ProjectShw/
 
 <img src="Meupet.png" width="80%">
 
